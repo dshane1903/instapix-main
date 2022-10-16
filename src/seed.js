@@ -35,7 +35,7 @@ export function seedDatabase(firebase) {
       following: [],
       followers: ['8R0tk6J0H4OQ84CQncU4IqksxNE2'],
       photoURL:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/raphael_cfskar.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       verifiedUser: false,
       privateProfile: false,
       savedPosts: [],
@@ -55,7 +55,7 @@ export function seedDatabase(firebase) {
       following: ['8R0tk6J0H4OQ84CQncU4IqksxNE2'],
       followers: [],
       photoURL:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/dali_pezrzv.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       verifiedUser: true,
       privateProfile: false,
       savedPosts: [],
@@ -75,7 +75,7 @@ export function seedDatabase(firebase) {
       following: [],
       followers: [],
       photoURL:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/orwell_vfvt5n.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       verifiedUser: false,
       privateProfile: false,
       savedPosts: [],
@@ -94,7 +94,7 @@ export function seedDatabase(firebase) {
           comment: 'Would you mind if I used this picture?',
           username: 'orwell',
           photoURL:
-            'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/orwell_vfvt5n.jpg',
+            'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
           dateCreated: Date.now(),
         },
         {
@@ -103,15 +103,15 @@ export function seedDatabase(firebase) {
           comment: 'Love this place, looks like my animal farm!',
           username: 'dali',
           photoURL:
-            'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/dali_pezrzv.jpg',
+            'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
           dateCreated: Date.now(),
         },
       ],
       dateCreated: Date.now(),
       imageSrc:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615462061/instagram/posts/raphael/4_bglbad.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       sourceURL:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615462061/instagram/posts/raphael/4_bglbad.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       likes: [],
       saved: [],
       photoId: '34ee2574-e3c3-4bec-9246-f2995705449b',
@@ -126,7 +126,7 @@ export function seedDatabase(firebase) {
           comment: 'Would you mind if I used this picture?',
           username: 'orwell',
           photoURL:
-            'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/orwell_vfvt5n.jpg',
+            'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
           dateCreated: Date.now(),
         },
         {
@@ -135,15 +135,15 @@ export function seedDatabase(firebase) {
           comment: 'Love this place, looks like my animal farm!',
           username: 'dali',
           photoURL:
-            'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/dali_pezrzv.jpg',
+            'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
           dateCreated: Date.now(),
         },
       ],
       dateCreated: Date.now(),
       imageSrc:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615462061/instagram/posts/raphael/1_u31jwk.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       sourceURL:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615462061/instagram/posts/raphael/1_u31jwk.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       likes: [],
       saved: [],
       photoId: '93945971-5949-4ed9-b876-967507479c04',
@@ -158,7 +158,7 @@ export function seedDatabase(firebase) {
           comment: 'Currently saying yes to new adventures',
           username: 'orwell',
           photoURL:
-            'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/orwell_vfvt5n.jpg',
+            'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
           dateCreated: Date.now(),
         },
         {
@@ -167,15 +167,15 @@ export function seedDatabase(firebase) {
           comment: 'Happiness never goes out of style',
           username: 'dali',
           photoURL:
-            'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/dali_pezrzv.jpg',
+            'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
           dateCreated: Date.now(),
         },
       ],
       dateCreated: Date.now(),
       imageSrc:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615462061/instagram/posts/raphael/2_uweupy.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       sourceURL:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615462061/instagram/posts/raphael/2_uweupy.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       likes: [],
       saved: [],
       photoId: '85e8b3dc-05d7-4ab6-958e-f4f3d8907576',
@@ -190,7 +190,7 @@ export function seedDatabase(firebase) {
           comment: 'Too glam to give a damn',
           username: 'orwell',
           photoURL:
-            'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/orwell_vfvt5n.jpg',
+            'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
           dateCreated: Date.now(),
         },
         {
@@ -199,15 +199,15 @@ export function seedDatabase(firebase) {
           comment: 'Together we could be unstoppable',
           username: 'dali',
           photoURL:
-            'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/dali_pezrzv.jpg',
+            'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
           dateCreated: Date.now(),
         },
       ],
       dateCreated: Date.now(),
       imageSrc:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615462061/instagram/posts/raphael/5_naf3dg.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       sourceURL:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615462061/instagram/posts/raphael/5_naf3dg.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       likes: [],
       saved: [],
       photoId: '53690fab-5b12-476b-8e6b-fac0fefac68e',
@@ -222,7 +222,7 @@ export function seedDatabase(firebase) {
           comment: 'When you feel like giving up, keep going',
           username: 'orwell',
           photoURL:
-            'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/orwell_vfvt5n.jpg',
+            'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
           dateCreated: Date.now(),
         },
         {
@@ -231,15 +231,15 @@ export function seedDatabase(firebase) {
           comment: 'Sharing my happy thoughts',
           username: 'dali',
           photoURL:
-            'https://res.cloudinary.com/kerosz/image/upload/v1615445057/instagram/avatars/dali_pezrzv.jpg',
+            'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
           dateCreated: Date.now(),
         },
       ],
       dateCreated: Date.now(),
       imageSrc:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615462061/instagram/posts/raphael/3_zrrkss.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       sourceURL:
-        'https://res.cloudinary.com/kerosz/image/upload/v1615462061/instagram/posts/raphael/3_zrrkss.jpg',
+        'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
       likes: [],
       saved: [],
       photoId: 'd6bdd4dd-2eb4-4e7c-9152-794b51d354b6',

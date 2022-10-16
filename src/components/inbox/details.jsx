@@ -56,7 +56,7 @@ export default function Details({
         dateUpdated: Date.now(),
         userId: '',
         photoURL:
-          'https://res.cloudinary.com/kerosz/image/upload/v1615369912/instagram/avatars/default-avatar_wfrmaq.jpg',
+          'file:///Users/shaneduncan/Desktop/avatarr-.jpeg',
         username: 'SYSTEM',
         text: `${username} left the chat. It's a sad day!`,
         messageId: uuid(),
